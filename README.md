@@ -9,19 +9,6 @@
 
 
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src=#/>][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src=#/>][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/Amit01naik" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/amit-naik-6264d/" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/_amit_naik_/?hl=en" />][instagram]
-
-<br />
-
-
-
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
