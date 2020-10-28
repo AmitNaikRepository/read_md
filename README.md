@@ -1,6 +1,5 @@
 ### Hello My Name is Amit Naik I am Machine learing engineer and Ai Developer. Really love to explore and do things which i love. my most interesting topics to learn is Machine learning, cloud Architecture , and devops , Python is my go to one. i would love to conncet if you would like to please connect👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 
 - 🔭 Currently working with MLops!
